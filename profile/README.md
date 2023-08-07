@@ -16,17 +16,17 @@ Alors, préparez-vous à vivre des moments de pur plaisir et de compétition ach
 
 <p>
 &nbsp;&nbsp;
-![img_git](./profile/img/git.svg)
+<img width="26px" src="./profile/img/git.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
-![img_vscode](./profile/img/vscode.svg)
+<img width="26px" src="./profile/img/vscode.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
-![img_html](./profile/img/html.svg)
+<img width="26px" src="./profile/img/html.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
-![img_css](./profile/img/css.svg)
+<img width="26px" src="./profile/img/css.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
-![img_javascript](./profile/img/javascript.svg)
+<img width="26px" src="./profile/img/javascript.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
-![img_mysql](./profile/img/mysql.svg)
+<img width="26px" src="./profile/img/css.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
 <!-- ![img_figma](./profile/img/figma.svg) -->
 <img width="26px" src="./profile/img/figma.svg" alt="logo Figma"/>
