@@ -27,7 +27,8 @@ Alors, préparez-vous à vivre des moments de pur plaisir et de compétition ach
 &nbsp;&nbsp;
 ![img_mysql](./profile/img/mysql.svg)
 &nbsp;&nbsp;
-![img_figma](./profile/img/figma.svg)
+<!-- ![img_figma](./profile/img/figma.svg) -->
+<img width="26px" src="./profile/img/figma.svg" alt="logo Figma"/>
 
 
 ## Authors
