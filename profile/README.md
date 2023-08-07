@@ -26,7 +26,7 @@ Alors, préparez-vous à vivre des moments de pur plaisir et de compétition ach
 &nbsp;&nbsp;
 <img width="26px" src="./profile/img/javascript.svg" alt="logo Figma"/>
 &nbsp;&nbsp;
-<img width="26px" src="./profile/img/figma.svg" alt="logo Figma"/>
+<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="logo Figma"/>
 </p>
 
 
