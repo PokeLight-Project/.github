@@ -1,6 +1,6 @@
 # 2023 PokéLight Villeneuve-d'Ascq
 
-<div align="center"><img src="../profile/img/PokéLight_logo.png" alt="Logo PokeLight"/></div>
+<div align="center"><img src="./profile/img/PokéLight_logo.png" alt="Logo PokeLight"/></div>
 
 Bonjour et bienvenue dans l'univers de PoKelight ! Notre équipe est ravie de vous accueillir pour des soirées pleines de fun et d'innovation. Notre équipe est composée d'Alexis, Sebastien et Charles, prêts à vous offrir des moments mémorables.
 
