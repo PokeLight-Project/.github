@@ -15,10 +15,6 @@ Promo 1 Développeur.se Web et Web Mobile 2023 - Villeneuve-d'Ascq
 &nbsp;&nbsp;
 ![img_javascript](./profile/img/javascript.svg)
 &nbsp;&nbsp;
-![img_php](./profile/img/php.svg)
-&nbsp;&nbsp;
-![img_docker](./profile/img/docker.svg)
-&nbsp;&nbsp;
 ![img_mysql](./profile/img/mysql.svg)
 
 ## Developer achievements
