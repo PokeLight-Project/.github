@@ -14,6 +14,7 @@ Alors, préparez-vous à vivre des moments de pur plaisir et de compétition ach
 
 ## Languages and Tools
 
+<p>
 &nbsp;&nbsp;
 ![img_git](./profile/img/git.svg)
 &nbsp;&nbsp;
@@ -29,6 +30,7 @@ Alors, préparez-vous à vivre des moments de pur plaisir et de compétition ach
 &nbsp;&nbsp;
 <!-- ![img_figma](./profile/img/figma.svg) -->
 <img width="26px" src="./profile/img/figma.svg" alt="logo Figma"/>
+</p>
 
 
 ## Authors
